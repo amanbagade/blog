@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# blog
+This project was made on ROR to learn about MVC, and it will become a back-end application. 
+>>>>>>> 842d2a2015a541677119ea2a28815af916ed48c3
